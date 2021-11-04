@@ -61,10 +61,15 @@ Which are already computed and available here :
 
 ## Visuals
 
-An example of output.
-This building address : Sint-Pietersvliet 7, 2000
+Examples of outputs.
+
+Address : Sint-Pietersvliet 7, 2000
 
 ![newplot (2)](https://user-images.githubusercontent.com/46165841/140322187-6a5820bc-4277-4f13-a6a8-2fe03fb1612f.png)
+
+Address : Hanzestedenplaats 1, 2000 
+
+![newplot (2)](https://user-images.githubusercontent.com/46165841/140325954-edd15765-eb27-44b7-955e-e6f59b958f88.png)
 
 
 ![voow](https://user-images.githubusercontent.com/46165841/140304494-444740b8-49c5-42b4-9dc6-1a9e68338855.gif)
