@@ -8,14 +8,16 @@
 The main mission of the project is creating a model which is a house in 3D with only a home address.These 3D models are created for _LIDAR PLANES_, active in the Geospatial industry. At the end of the project you can give an address from Vlanderen in Belgium and you can take a 3D out put of your address building.
 
 Used python libraries;
-``` - import requests
+```
+ - import requests
  - import matplotlib.pyplot as plt
  - import pandas as pd
  - import rasterio
  - from rasterio.mask import mask
  - import shapely.geometry as geo
  - import plotly.graph_objects as go
- - import numpy as np```
+ - import numpy as np 
+ ```
 
 I recieved the coordinate informations from this API address [API](https://docs.basisregisters.vlaanderen.be/docs/api-documentation.html#section/Technische-Info/Foutmeldingen)
  
