@@ -7,7 +7,7 @@
 
 The main mission of the project is creating a model which is a house in 3D with only a home address.These 3D models are created for _LIDAR PLANES_, active in the Geospatial industry. At the end of the project you can give an address from Vlanderen in Belgium and you can take a 3D out put of your address building.
 
-While saving the datasets, used python libraries like ;
+Used python libraries;
  - import requests
  - import matplotlib.pyplot as plt
  - import pandas as pd
