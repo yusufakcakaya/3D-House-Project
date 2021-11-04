@@ -48,7 +48,7 @@ The DSM and the DTM are combined together to create a Canopy Height Model (CHM) 
 
 - Pull requests are welcome.
 - or ```git clone https://github.com/yusufakcakaya/3D_houses.git```
-- 
+
 
 ## Repo Architecture 
 
