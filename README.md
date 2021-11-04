@@ -34,7 +34,8 @@ Which are already computed and available here :
 - [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
 - [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
 
-Canopy Height Model
+**Canopy Height Model**
+
 The DSM and the DTM are combined together to create a Canopy Height Model (CHM) which is required for the 3D model.
 
 ![chm](https://user-images.githubusercontent.com/46165841/140337622-3f9abada-0d21-4413-a549-7aa436009bd5.png)
